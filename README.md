@@ -41,9 +41,14 @@ project-week-4/
 │   └── bank.csv                          # Bank marketing dataset
 ├── notebooks/
 │   └── bank_marketing_analysis.ipynb     # Main analysis notebook
-├── src/                                   # Source code (future development)
+├── src/                                   # Source code and utilities
+│   ├── __init__.py                       # Package initialization
+│   └── data_loader.py                    # Data loading utilities
+├── examples/                              # Example scripts
+│   └── quick_start.py                    # Quick start example
 ├── requirements.txt                       # Python dependencies
 ├── .gitignore                            # Git ignore file
+├── CONTRIBUTING.md                       # Contribution guidelines
 └── README.md                             # Project documentation
 ```
 
