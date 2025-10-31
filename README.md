@@ -5,7 +5,7 @@ This project analyzes a Portuguese bank's marketing campaign dataset to predict 
 
 ## Dataset
 The dataset contains information about bank marketing campaigns conducted via phone calls. It includes:
-- **41,188 records** with **21 features**
+- **41,188 records** (plus 1 header row) with **21 features**
 - Client demographic information (age, job, marital status, education)
 - Campaign details (contact type, month, duration, number of contacts)
 - Economic indicators (employment rate, consumer confidence, euribor rate)
